@@ -1,4 +1,5 @@
 pluginclassname=PersonalFilesPlugin
 pluginname=PersonalFilesPlugin
 origin=RasmusFuhse
-version=0.1
+version=1.0
+studipMinVersion=2.4
